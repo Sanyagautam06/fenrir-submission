@@ -1,0 +1,6 @@
+﻿Overview 
+Free Games Directory is a frontend-only web platform designed to help users discover and access legitimate free-to-play games from official sources.
+The platform organizes games by genre and provides a simple browsing experience with featured games, search functionality, genre filtering, detailed game pages, and direct links to official download locations.
+The website is intended to be lightweight, fast, and easy to use. All game content is stored locally in a JSON file and no backend services, databases, user accounts, authentication systems, or external APIs are required.
+The application is built using React.js and is designed for deployment as a static website on Vercel. The target audience includes casual gamers, students, retro gaming enthusiasts, and users looking for trusted free gaming resources.
+The primary goal is to provide a clean, dark-themed game discovery experience that allows visitors to quickly find, explore, and download free games from official sources.

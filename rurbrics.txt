@@ -1,0 +1,39 @@
+﻿1. A React application source code project is delivered.
+2. A public GitHub repository URL is delivered.
+3. A public Vercel deployment URL is delivered.
+4. The application contains a Home page route at `/`.
+5. The application contains a Browse page route at `/browse`.
+6. The application contains a Game Detail page route at `/game/:id`.
+7. The Home page displays the heading `Discover & Download Free Games`.
+8. The Home page displays the provided logo.
+9. The Home page displays the categories Action, Puzzle, RPG, Arcade, Adventure, and Strategy
+10. Selecting a category activates the selected genre on the Browse page.
+11. The Home page displays exactly six featured games.
+12. A featured game card displays a screenshot.
+13. A featured game card displays a title.
+14. A featured game card displays a genre badge.
+15. The game data file contains at least 10 game entries.
+16. The game data file contains at least 6 featured game entries.
+17. The Browse page contains a search field with the placeholder text `Search games...`.
+18. Search functionality filters games by title.
+19. The Browse page contains an All filter.
+20. The All filter is selected by default.
+21. Genre filters display matching games.
+22. Applying a genre filter while a search query is active updates the displayed game list.
+23. The text `No games found` is displayed when no games match the active filters.
+24. The Game Detail page displays a game title.
+25. The Game Detail page displays a screenshot.
+26. The Game Detail page displays a game description.
+27. The Game Detail page contains a download button.
+28. The download button opens in a new browser tab.
+29. The download button links to the official download source.
+30. Game content is loaded from `src/data/games.json`.
+31. A placeholder image is displayed when a game image fails to load.
+32. The implementation follows the provided style guide.
+33. The provided reference image of the logo is used in the navigation bar.
+34. The delivered project follows the specified folder structure.
+35. A README.md file is included.
+36. The README.md file contains setup instructions.
+37. The README.md file contains game data editing instructions.
+38. No browser console errors are present during normal use.
+39. No broken images are displayed during normal use.
